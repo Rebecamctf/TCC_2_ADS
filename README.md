@@ -67,8 +67,8 @@ O que deve conter:
   * Utilizar o google acadêmico para padronizar
   
   ANEXOS
-    * Inserir os códigos do Banco de Dados
-    * Inserir os codigos do Front
+    * Inserir os códigos do Banco de Dados /n
+    * Inserir os codigos do Front /n
     * Inserir os códigos do Sequelize
     * Inserir gravações dos testes com marcação de tempo
     * Inserir os códigos da Automação
