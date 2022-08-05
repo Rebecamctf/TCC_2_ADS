@@ -60,47 +60,19 @@ O que deve conter:
     * Escrever 1 parágrafo com prós e contras de ambos os testes
     
  6. Conclusões
-  * Escrever 1 parágrafo sobre os testes e seus resultados
-  * Escrever 1 parágrafo sobre projetos futuros
+   * Escrever 1 parágrafo sobre os testes e seus resultados
+   * Escrever 1 parágrafo sobre projetos futuros
   
  Referências Bibliográficas
   * Utilizar o google acadêmico para padronizar
   
   ANEXOS
-    * Inserir os códigos do Banco de Dados /n
-    * Inserir os codigos do Front /n
+    * Inserir os códigos do Banco de Dados 
+    * Inserir os codigos do Front 
     * Inserir os códigos do Sequelize
     * Inserir gravações dos testes com marcação de tempo
     * Inserir os códigos da Automação
     * Escrever testes como os do traballho
-      * Inserir BDD
-      * Inserir Cenários
-      * Inserir Casos de teste
-    
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+      ** Inserir BDD
+      ** Inserir Cenários
+      ** Inserir Casos de teste
